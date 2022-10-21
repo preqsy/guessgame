@@ -1,7 +1,5 @@
 
-
-const ps = require("prompt-sync")()
-const prompt = ps()
+const ps = require("prompt-sync")();
 
 var rangeLimit = 2
 var point = 0
